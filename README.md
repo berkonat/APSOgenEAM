@@ -1,6 +1,8 @@
 # APSOgenEAM
 EAM Potential Generator with Adaptive Particle Swarm Optimization (APSO) using MPI Parallelization
 
+Version 1.0.0
+
 This code generates DYNAMO style tabulated EAM files. These files can also be used by LAMMPS MD code.
 
 Initially, this code is written to develop Cu-Ni alloy potential as it is detailed in 
