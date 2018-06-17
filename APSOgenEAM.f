@@ -1,4 +1,7 @@
 c
+c     Copyright (c) 2012 Berk Onat
+c     View LICENSE file in this directory for the license of this code.
+c
 c     EAM File Generation Program in DYNAMO setfl or funcfl format
 c
 c     Inputs with < : filename
