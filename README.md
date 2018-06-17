@@ -9,7 +9,7 @@ Initially, this code is written to develop Cu-Ni alloy potential as it is detail
 As it is stated in the LICENCE of this code, any publication that uses this code and/or the results of this code should cite the following paper: [Berk Onat and Sondan Durukanoğlu 2014 J. Phys.: Condens. Matter 26 035404](http://iopscience.iop.org/article/10.1088/0953-8984/26/3/035404)
 
 ### How to Compile
-Modify the Intel library installations in `compile.sh` and run or do so in `Makefile` and run `make` .
+Modify the Intel library and compiler paths in  `Makefile` and run `make` .
 
 #### Example command to compile the code:
 mpiifort APSOgenEAM.f -o APSOgenEAM.x -lmkl_intel_lp64 -lmkl_sequential -lmkl_core -lpthread -g
