@@ -6,7 +6,7 @@ This code generates DYNAMO style tabulated EAM files. These files can also be us
 Initially, this code is written to develop Cu-Ni alloy potential as it is detailed in 
 [Berk Onat and Sondan Durukanoğlu 2014 J. Phys.: Condens. Matter 26 035404](http://iopscience.iop.org/article/10.1088/0953-8984/26/3/035404).
 
-As it is stated in the LICENCE of this code, any publication that uses this code and/or the results of this code should cite the paper: [Berk Onat and Sondan Durukanoğlu 2014 J. Phys.: Condens. Matter 26 035404](http://iopscience.iop.org/article/10.1088/0953-8984/26/3/035404)
+As it is stated in the LICENCE of this code, any publication that uses this code and/or the results of this code should cite the following paper: [Berk Onat and Sondan Durukanoğlu 2014 J. Phys.: Condens. Matter 26 035404](http://iopscience.iop.org/article/10.1088/0953-8984/26/3/035404)
 
 ### How to Compile
 mpif77 APSOgenEAM.f -o APSOgenEAM.x
